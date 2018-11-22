@@ -18,3 +18,7 @@ SetDemo.java
 
 HashDemo.java
 该代码主要讲解redis中Hash数据结构的常见操作。
+
+
+ZsetDemo.java
+该代码主要讲解redis中有序集合的操作，在redis中有序集合在实际场景应用中具有很好的作用。

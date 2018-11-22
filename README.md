@@ -14,3 +14,7 @@ ListDemo.java
 
 SetDemo.java
 该代码主要讲解redis中Set数据结构的常见操作，Set就是无序集合，与java中的set类似。
+
+
+HashDemo.java
+该代码主要讲解redis中Hash数据结构的常见操作。
